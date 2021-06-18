@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "food_name": "Nasi Goreng",
+    "food_description": "Lorem ipsum dolor sit amet."
+  },
+  {
+    "id": 2,
+    "food_name": "Rendang",
+    "food_description": "Vivamus molestie maximus enim non."
+  },
+  {
+    "id": 3,
+    "food_name": "Nasi uduk",
+    "food_description": "Vestibulum fermentum ex fermentum mattis."
+  },
+  {
+    "id": 4,
+    "food_name": "Nasi Kuning",
+    "food_description": "Maecenas ipsum lacus, volutpat vitae."
+  },
+  {
+    "id": 5,
+    "food_name": "Ayam Goreng",
+    "food_description": "Aenean pretium rhoncus euismod. Phasellus."
+  },
+  {
+    "id": 6,
+    "food_name": "Ayam Geprek",
+    "food_description": "Nam blandit mi a dolor."
+  },
+  {
+    "id": 7,
+    "food_name": "Makaroni",
+    "food_description": "Quisque fringilla urna sit amet."
+  },
+  {
+    "id": 8,
+    "food_name": "Bakso",
+    "food_description": "Integer tristique erat eget massa."
+  },
+  {
+    "id": 9,
+    "food_name": "Soto",
+    "food_description": "Sesuatu berkuah dan berdaging"
+  },
+  {
+    "id": 10,
+    "food_name": "Rawon",
+    "food_description": "Ini rawon bukan tawon"
+  }
+]
